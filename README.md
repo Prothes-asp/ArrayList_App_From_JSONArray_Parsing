@@ -101,6 +101,11 @@ ListView Item And Set Item Onclick Listener with WebView and Parsing Data From J
         }
     }
 ```
+
+## ScreenShot or Demo
+![Screenshot_1](https://github.com/user-attachments/assets/28ef7e75-c156-452e-811d-2af346a74223)
+![Screenshot_2](https://github.com/user-attachments/assets/50481e08-117b-40d2-899d-16216986e874)
+
 ## Authors
 
 - [Prothes Barai](https://prothes-asp.github.io/prothes/)
