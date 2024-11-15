@@ -11,7 +11,7 @@ ListView Item And Set Item Onclick Listener with WebView and Parsing Data From J
 - Add more Online ImageView Glide Library
 
 
-```bash
+```java
     implementation 'com.airbnb.android:lottie:3.4.0'
     implementation 'com.android.volley:volley:1.2.1'
     implementation 'com.github.bumptech.glide:glide:4.16.0'
@@ -21,7 +21,7 @@ ListView Item And Set Item Onclick Listener with WebView and Parsing Data From J
 
 - So Here For Loop ...
 
-```bash
+```java
     try {
             for (int i = 0; i<response.length(); i++){
                 JSONObject jsonObject = response.getJSONObject(i);
@@ -46,7 +46,7 @@ ListView Item And Set Item Onclick Listener with WebView and Parsing Data From J
 ```
 
 - Call Base Adapter
-```bash
+```java
     public class CustomBaseAdapter extends BaseAdapter{
 
         @Override
